@@ -4,8 +4,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://kit.fontawesome.com/9f6b8e2cd5.css" crossorigin="anonymous">
 
-<h1 align="center" style="font-family: 'Lobster', sans-serif; font-size: 46px;"><b>Hi , I'm Adrianna!</b></h1>
-<br>
+<!--<h1 align="center" style="font-family: 'Lobster', sans-serif; font-size: 46px;"><b>Hi , I'm Adrianna!</b></h1>-->
+
+<div align="center">
+<img src="./images/adrianna.svg">
+</div>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=40&duration=3000&pause=200&color=767676&center=true&vCenter=true&random=false&width=435&lines=A+Front-end+Developer;A+UX%2FUI+Designer;A+Creator" alt="Typing SVG" />
