@@ -25,7 +25,7 @@
 <p align="center" font-family: 'Roboto', sans-serif;">Hi there! <i class="fa-light fa-hand-wave" style="color: #767676;"></i> I'm the one behind the screen turning caffeine <i class="fa-regular fa-cup-togo" style="color: #767676;"></i> into code <i class="fa-regular fa-code" style="color: #767676;"></i> and visions into interfaces. As a front-end developer with a knack for UX/UI, I delight in crafting experiences that feel like a walk in the park <i class="fa-light fa-bench-tree" style="color: #767676;"></i> — effortless, refreshing, and memorable. I have a soft spot for clean, functional design where simplicity reigns supreme. I'm passionate about the little things that make a big impact on user experience. When I'm not dotting 'i's and crossing 't's in my code, I'm exploring the latest design trends that tickle my creative senses <i class="fa-light fa-paintbrush-pencil" style="color: #767676;"></i>. Join me in celebrating the art of the user-friendly, the beauty of the intuitive, and the joy of designs that just 'click' <i class="fa-regular fa-stars" style="color: #767676;"></i>.
 <br><br>
 <i class="fa-light fa-browser" style="color: #767676;"></i> My portfolio is available <a href="https://adriannaderkacz.com/">here</a>.</p>
-<br>
+<br><br>
 
 <!--Skills Section-->
 <!--<h1 align="center" style="font-family: 'Lobster', sans-serif; font-size: 36px;">My Skills</h1>-->
@@ -83,10 +83,7 @@
 
   ![adriannaderkacz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adriannaderkacz&theme=radical&show_icons=true&hide_border=true&layout=compact)
 </div>
-
-
-<br>
-
+<br><br>
 <!---Contact Me-->
 <!--<h1 align="center" style="font-family: 'Lobster', sans-serif; font-size: 36px;">Contact Me</h1>-->
 <div align="center">
@@ -106,9 +103,7 @@
     <img src="./images/email.png" alt="Email Icon" width="50" height="50">
   </a>
 </div>
-
 <br><br>
-
 <!--Profile views-->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adriannaderkacz&color=767676">
