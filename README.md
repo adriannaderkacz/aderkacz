@@ -85,6 +85,7 @@
 <br><br>
 
 <!--Profile views-->
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=adriannaderkacz&color=767676">
 </div>
+
