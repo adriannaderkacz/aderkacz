@@ -14,12 +14,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=40&duration=3000&pause=200&color=767676&center=true&vCenter=true&random=false&width=435&lines=A+Front-end+Developer;A+UX%2FUI+Designer;A+Creator" alt="Typing SVG" />
   </a>
   <br>
-  <img src="./images/profilePic.svg" alt="Profile Picture" style="width: auto; height: 300px;">
+  <img src="./images/profilePic.svg" alt="Profile Picture" style="width: auto; height: 400px;">
 </div>
 
-
 <!--About Me Section-->
-<h2 align="center" style="font-family: 'Lobster', sans-serif; font-size: 36px;">About Me</h2>
+<h1 align="center" style="font-family: 'Lobster', sans-serif; font-size: 36px;">About Me</h1>
 <p align="center" font-family: 'Roboto', sans-serif;">Hi there! <i class="fa-light fa-hand-wave" style="color: #767676;"></i> I'm the one behind the screen turning caffeine <i class="fa-regular fa-cup-togo" style="color: #767676;"></i> into code <i class="fa-regular fa-code" style="color: #767676;"></i> and visions into interfaces. As a front-end developer with a knack for UX/UI, I delight in crafting experiences that feel like a walk in the park <i class="fa-light fa-bench-tree" style="color: #767676;"></i> — effortless, refreshing, and memorable. I have a soft spot for clean, functional design where simplicity reigns supreme. I'm passionate about the little things that make a big impact on user experience. When I'm not dotting 'i's and crossing 't's in my code, I'm exploring the latest design trends that tickle my creative senses <i class="fa-light fa-paintbrush-pencil" style="color: #767676;"></i>. Join me in celebrating the art of the user-friendly, the beauty of the intuitive, and the joy of designs that just 'click' <i class="fa-regular fa-stars" style="color: #767676;"></i>.
 <br><br>
 <i class="fa-light fa-browser" style="color: #767676;"></i> My portfolio is available <a href="https://adriannaderkacz.com/">here</a>.</p>
