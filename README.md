@@ -10,6 +10,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=40&duration=3000&pause=200&color=767676&center=true&vCenter=true&random=false&width=435&lines=A+Front-end+Developer;A+UX%2FUI+Designer;A+Creator" alt="Typing SVG" />
   </a>
+  <br>
   <img src="./images/profilePic.svg" alt="Profile Picture" style="width: auto; height: 300px;">
 </div>
 
@@ -66,7 +67,9 @@
 <div align="center">
 
   ![adriannaderkacz's Stats](https://github-readme-stats.vercel.app/api?username=adriannaderkacz&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
   ![adriannaderkacz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adriannaderkacz&theme=radical&hide_border=true)
+
   ![adriannaderkacz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adriannaderkacz&theme=radical&show_icons=true&hide_border=true&layout=compact)
 </div>
 
