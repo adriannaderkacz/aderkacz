@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://kit.fontawesome.com/9f6b8e2cd5.css" crossorigin="anonymous">
 
 <h1 align="center" style="font-family: 'Lobster', sans-serif; font-size: 46px;"><b>Hi , I'm Adrianna!</b></h1>
-
+<br>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=40&duration=3000&pause=200&color=767676&center=true&vCenter=true&random=false&width=435&lines=A+Front-end+Developer;A+UX%2FUI+Designer;A+Creator" alt="Typing SVG" />
