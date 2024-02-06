@@ -72,16 +72,19 @@
 <h1 align="center" style="font-family: 'Lobster', sans-serif; font-size: 36px;">Contact Me</h1>
 
 <div align="center">
-  <a href="https://github.com/adriannaderkacz" target="_blank" style="margin-right: 20px;">
+  <a href="https://github.com/adriannaderkacz" target="_blank">
     <img src="./images/github.png" alt="Github Icon" width="30" height="30">
   </a>
-  <a href="https://www.linkedin.com/in/adrianna-derkacz/" target="_blank" style="margin-right: 20px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adrianna-derkacz/" target="_blank">
     <img src="./images/linkedin.png" alt="LinkedIn Icon" width="30" height="30">
   </a>
-  <a href="mailto:a.derkacz@gmail.com" style="margin-right: 20px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:a.derkacz@gmail.com">
     <img src="./images/email.png" alt="Email Icon" width="30" height="30">
   </a>
 </div>
+
 <br><br>
 
 <!--Profile views-->
