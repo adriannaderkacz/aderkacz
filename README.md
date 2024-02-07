@@ -108,4 +108,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adriannaderkacz&color=767676">
 </div>
-
+<br><br>
+<!--Credits-->
+<div align="center">
+  <img src="./images/credits.svg"><hr>
+  <details>
+    <summary>Resources</summary>
+    Profile avatar: <a href="https://www.canva.com/">Canva</a><br>
+    Skillset badges: <a href="https://shields.io/">Shields.io</a><br>
+    GitHub Stats: <a href="https://gh-stats-gen.vercel.app/">@joshxfi</a><br>
+    Profile views counter: <a href="https://github.com/antonkomarev/github-profile-views-counter">Anton Komarev</a>
+  </details>
+</div>
