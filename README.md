@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=40&duration=3000&pause=200&color=767676&center=true&vCenter=true&random=false&width=435&lines=A+Front-end+Developer;A+UX%2FUI+Designer;A+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=100&size=40&duration=3000&pause=200&color=767676&center=true&vCenter=true&random=false&width=435&lines=UX%2FUI+Designer;Web+Developer;Brand+Strategist" alt="Typing SVG" />
   </a>
   <br>
   <img src="./images/profilePic.svg" alt="Profile Picture" style="width: auto; height: 400px;">
@@ -22,7 +22,7 @@
 <img src="./images/aboutme.svg">
 </div>
 <hr>
-<p align="center" font-family: 'Roboto', sans-serif;">Hi there! <i class="fa-light fa-hand-wave" style="color: #767676;"></i> I'm the one behind the screen turning caffeine <i class="fa-regular fa-cup-togo" style="color: #767676;"></i> into code <i class="fa-regular fa-code" style="color: #767676;"></i> and visions into interfaces. As a front-end developer with a knack for UX/UI, I delight in crafting experiences that feel like a walk in the park <i class="fa-light fa-bench-tree" style="color: #767676;"></i> — effortless, refreshing, and memorable. I have a soft spot for clean, functional design where simplicity reigns supreme. I'm passionate about the little things that make a big impact on user experience. When I'm not dotting 'i's and crossing 't's in my code, I'm exploring the latest design trends that tickle my creative senses <i class="fa-light fa-paintbrush-pencil" style="color: #767676;"></i>. Join me in celebrating the art of the user-friendly, the beauty of the intuitive, and the joy of designs that just 'click' <i class="fa-regular fa-stars" style="color: #767676;"></i>.
+<p align="center" font-family: 'Roboto', sans-serif;">Hi there! I’m the one behind the screen turning caffeine into design magic and visions into seamless experiences. As a UX/UI Designer with a knack for front-end development, I’m all about creating digital spaces that feel like a breeze — effortless, engaging, and memorable. With a passion for clean, user-centered design, I believe simplicity is the ultimate sophistication. I’m obsessed with the little details that make a big impact on the user journey. When I’m not perfecting pixels or streamlining flows, I’m exploring the latest trends to fuel my creativity. Join me in celebrating the art of the user-friendly, the beauty of the intuitive, and the joy of designs that just work.
 <br><br>
 <i class="fa-light fa-browser" style="color: #767676;"></i> My portfolio is available <a href="https://adriannaderkacz.com/">here</a>.</p>
 <br><br>
@@ -99,7 +99,7 @@
     <img src="./images/linkedin.png" alt="LinkedIn Icon" width="50" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:a.derkacz@gmail.com">
+  <a href="mailto:adrianna@adriannaderkacz.com">
     <img src="./images/email.png" alt="Email Icon" width="50" height="50">
   </a>
 </div>
